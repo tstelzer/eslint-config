@@ -1,6 +1,6 @@
 {
   "name": "@tstelzer/eslint-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This package contains an opinionated .eslintrc.",
   "main": "index.js",
   "scripts": {
@@ -21,9 +21,9 @@
   },
   "peerDependencies": {
     "eslint": "^5.4.0",
-    "eslint-plugin-react": "^7.11.1",
-    "eslint-plugin-prettier": "^2.6.2",
     "eslint-config-prettier": "^3.0.1",
+    "eslint-plugin-prettier": "^2.6.2",
+    "eslint-plugin-react": "^7.11.1",
     "prettier": "^1.14.2"
   },
   "homepage": "https://github.com/tstelzer/eslint-config#readme"
