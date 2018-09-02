@@ -1,0 +1,30 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "This package contains an opinionated .eslintrc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tstelzer/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ],
+  "author": "Timm Stelzer <timmstelzer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tstelzer/eslint-config/issues"
+  },
+  "peerDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-plugin-react": "^7.11.1",
+    "eslint-plugin-prettier": "^7.11.1",
+    "eslint-config-prettier": "^3.0.1",
+    "prettier": "^1.14.2"
+  },
+  "homepage": "https://github.com/tstelzer/eslint-config#readme"
+}
